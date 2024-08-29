@@ -1,7 +1,8 @@
 {
-  "name": "myApp",
+  "name": "ContactList",
   "integrations": {
     "capacitor": {}
   },
   "type": "vue-vite"
+  
 }
